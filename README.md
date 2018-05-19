@@ -27,7 +27,7 @@ gulp watch
 ```
 
 
-//笔记
+##安装命令
 1 cd 根目录 2 npm init 3 npm install gulp -g 全局 4 npm install gulp --save-dev
 
 5 gulp copyHtml //拷贝命令函数，自己定义的
@@ -40,4 +40,3 @@ Gulp minify
 gulp.task('default', ['message', 'copyHtml', 'imageMin', 'minify']);
 //安装合并工具
 npm install gulp-concat --save-dev
-
