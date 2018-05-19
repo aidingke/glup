@@ -1,6 +1,6 @@
 # Gulp Example/Starter App
 
-通过Gulp的案例,让大家可以理解怎样通过Gulp去应用对应的插件,解决对应的问题
+通过Gulp的案例,解决对应的问题 gulp.task('default', ['message', 'copyHtml', 'imageMin', 'scripts']);
 
 ### Version
 1.0.0
